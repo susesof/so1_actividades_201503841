@@ -138,9 +138,8 @@ usuario1@DESKTOP-RNJ50N9:/home/suseth$ chmod u+x ~/directorio1/archivo2.txt
 ```
 usuario1@DESKTOP-RNJ50N9:/home/suseth$ ls -ld ~/directorio1/archivo2.txt
 -rwxrw-r-- 1 usuario1 usuario1 0 Aug  9 20:01 /home/usuario1/directorio1/archivo2.txt
-usuario1@DESKTOP-RNJ50N9:/home/suseth$ sudo chown :grupo1 ~/directorio1/archivo2.txt
-[sudo] password for usuario1:
-usuario1 is not in the sudoers file.  This incident will be reported.
+usuario1@DESKTOP-RNJ50N9:/home/suseth$ chown :grupo1 ~/directorio1/archivo2.txt
+
 
 ```
 ### Configurar Permisos de Directorio: 
