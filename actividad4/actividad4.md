@@ -1,4 +1,4 @@
-## activida 4
+## Actividad 4
 
 Primero, se crea un script de shell llamado saludo.sh
 
